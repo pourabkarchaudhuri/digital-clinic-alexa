@@ -1,0 +1,57 @@
+
+{
+    "firstaid":[
+       {
+          "problem":"burns",
+          "Solution":"Start by, cooling the damaged skin, by running it under cool water, for at least 10 minutes."
+       },
+       {
+          "problem":"cuts",
+          "Solution":"Clean the scrape with water, but avoid getting soap in an open wound. Apply an antibiotic, like Neosporin, and cover with a bandage."
+       },
+       {
+          "problem":"heat_exhaustion",
+          "Solution":"Get out of the heat immediately! Lay down with feet and legs elevated. Replenish fluids, and place a cool cloth, on the forehead, or back of the neck."
+       },
+       {
+          "problem":"bee_sting",
+          "Solution":"Assuming there is not an allergy to contend with, remove the stinger, and apply a cold pack, or cloth to reduce swelling. Hydrocortisone, or lidocaine creams, can help minimize pain and itching."
+       },
+       {
+          "problem":"sprain",
+          "Solution":"The first step is to avoid putting any weight, or using the affected limb. Use ice and compression at regular intervals throughout the day, and elevate the injured limb above your heart to reduce swelling."
+       },
+       {
+          "problem":"nosebleed",
+          "Solution":"Have your child sit upright, but don't tilt her head back. Loosen any tight clothing around her neck. Pinch the lower end of her nose close to the nostrils, and have her lean forward while you apply pressure continuously, for five to ten minutes. Don't release and check the nose, as it could prolong the bleeding."
+       },
+       {
+          "problem":"insect_bite",
+          "Solution":"If the insect left a stinger, gently scrape the skin with your fingernail, or a credit card, to remove it without breaking it. For itching, hold a cold compress over the area for a minute, or apply calamine lotion, or a 1% hydrocortisone cream, or topical antihistamine, if the skin isn't broken or scabbed. Contact your doctor if you suspect a tick bite."
+       },
+       {
+          "problem":"cpr",
+          "Solution":"Do not check a pulse for alive or dead, simply check breathing. If you drown, your pulse will continue for minutes. Move the patient onto a flat surface if possible. Check airway and breathing for 10 seconds. Use the compression only approach. If the patient is not breathing, call an ambulance and start compression at a rate of 120 per minutes. Continue until help arrives."
+       },
+       {
+          "problem":"head_injury",
+          "Solution":"In cases of head, neck, or spinal injuries, never move a victim more than is absolutely necessary. The water can provide excellent support until medical personnel arrive. If a victim must be moved, place him or her gently on a firm, full length support."
+       },
+       {
+          "problem":"shock",
+          "Solution":"The seriously injured should be treated for shock, by keeping the victim warm, still, and in a lying down position, until medical attention arrives. Elevate the feet several inches, except in cases of head injury or hypothermia."
+       },
+       {
+          "problem":"fainting",
+          "Solution":"If possible, try to prevent someone who is fainting from hitting the ground. Lay the person down on the ground, face up, and elevate his or her feet 8–12 inches. Loosen any constrictive clothing. Apply a cool, wet compress to the forehead of the person."
+       },
+       {
+          "problem":"choking",
+          "Solution":"Have the person lean forward and, using the palm of your hand, strike his back between the shoulder blades five times.  If you’re alone, Press your abdomen against something firm, like a kitchen counter, or use your hands."
+       },
+       {
+          "problem":"broken_bone",
+          "Solution":"Consult the doctor."
+       }
+    ]
+}
